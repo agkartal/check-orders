@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.checkorders" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.agkartal.checkorders" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Check Orders</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        Eşlerimizin yazdığı alış veriş listelerinin kontrolü için geliştirilmiş bir uygulama
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="agkartall@gmail.com " href="mailto://agkartal.com">
+        AG KARTAL
     </author>
     <content src="index.html" />
     <plugin name="cordova-plugin-whitelist" spec="1" />
